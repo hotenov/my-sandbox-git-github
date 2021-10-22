@@ -1,1 +1,1 @@
-# stdy_project1
+# Sandbox to learn Git and GitHub
