@@ -10,6 +10,9 @@ packages = [{include = "my_sandbox_git_github"}]
 python = "^3.7"
 
 
+[tool.poetry.group.docs.dependencies]
+mkdocs = "^1.4.1"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
