@@ -12,6 +12,7 @@ python = "^3.7"
 
 [tool.poetry.group.docs.dependencies]
 mkdocs = "^1.4.1"
+mkdocs-material = "^8.5.7"
 
 [build-system]
 requires = ["poetry-core"]
