@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "my-sandbox-git-github"
+version = "0.1.0"
+description = "Sandbox for learning Git and GitHub"
+authors = ["Artem Hotenov <qa@hotenov.com>"]
+readme = "README.md"
+packages = [{include = "my_sandbox_git_github"}]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
