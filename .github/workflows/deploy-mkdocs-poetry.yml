@@ -48,4 +48,4 @@ jobs:
 
       # Deploy MkDocs static files to Pages
       - name: Deploy generated docs
-        run: poetry run mkdocs gh-deploy
+        run: poetry run mkdocs gh-deploy --force
