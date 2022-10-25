@@ -1,5 +1,5 @@
 site_name: My MkDocs Sandbox
-site_url: https://example.com/
+site_url: https://hotenov.github.io/my-sandbox-git-github/
 
 nav:
   - Home: index.md
